@@ -536,6 +536,11 @@ button {
     align-items: center;
 }
 
+.col-sm-6 img {
+    width: 320px;
+    height: 320px;
+}
+
 a[data-lightbox] {
     position: relative;
     display: block;
