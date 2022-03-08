@@ -695,7 +695,9 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    
+    max-width: 90%;
+    
     margin: auto auto auto auto;
 }
 
@@ -832,14 +834,19 @@ h4 {
 }
 /* BANNIERE test
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere4.jpg");
     box-sizing: border-box;
 }
 */
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
 }
-
+@media (min-width: 1025px) {
+    .bg-banniere {
+        background-image: url("img/agence-la-panthere4.jpg");
+        box-sizing: border-box;
+    }
+}
 
 @media (max-width: 1024px) {
     .bloc {
