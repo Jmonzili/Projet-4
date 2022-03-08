@@ -753,6 +753,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    
 }
 
 .portfolio-thumb {
@@ -836,6 +837,9 @@ h4 {
 .bg-banniere {
     background-image: url("img/agence-la-panthere4.jpg");
     box-sizing: border-box;
+}
+.bg-presentation {
+    background-image: url("img/image-de-presentation.jpg");
 }
 */
 .bg-presentation {
