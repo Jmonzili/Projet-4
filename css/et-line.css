@@ -108,6 +108,7 @@
 .et-icon-wallet,
 .et-icon-wine {
     font-family: et-line;
+    /* test none*/
     speak-as: none;
     font-style: normal;
     font-weight: 400;
