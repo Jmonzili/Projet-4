@@ -948,6 +948,7 @@ h4 {
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
+
     .b-parallax {
         background-attachment: scroll;
     }
@@ -1082,6 +1083,9 @@ h4 {
     .bg-banniere {
         background-image: url("img/agence-la-panthere\(mini-mobile\).jpg");
         box-sizing: border-box;
+    }
+    .no-padding {
+        padding: 0 !important;
     }
 }
 
