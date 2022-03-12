@@ -109,7 +109,7 @@
 .et-icon-wine {
     font-family: et-line;
     /* test none*/
-    speak-as: none;
+    speak-as: auto;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
