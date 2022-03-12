@@ -888,6 +888,9 @@ h4 {
         background-image: url("img/agence-la-panthere2.jpg");
         box-sizing: border-box;
     }
+    .bg-presentation {
+        background-image: url("img/image-de-presentation3.jpg");
+    }
 }
 
 @media only screen and (min-width: 1024px) and (max-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
@@ -1073,7 +1076,9 @@ h4 {
         background-image: url("img/agence-la-panthere.jpg");
         box-sizing: border-box;
     }
-    
+    .bg-presentation {
+        background-image: url("img/image-de-presentation2.jpg");
+    }
 }
 
 @media (max-width: 400px) {
@@ -1087,6 +1092,9 @@ h4 {
     }
     .no-padding {
         padding: 0 !important;
+    }
+    .bg-presentation {
+        background-image: url("img/image-de-presentation1.jpg");
     }
 }
 
