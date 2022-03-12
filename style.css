@@ -796,11 +796,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #575757;
     color: #FFFFFF!important;
 }
 
@@ -837,18 +837,15 @@ h4 {
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
 }
-/* BANNIERE test
-.bg-banniere {
-    background-image: url("img/agence-la-panthere4.jpg");
-    box-sizing: border-box;
-}
+
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
 }
-*/
-.bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+
+.citation {
+    font-style: italic;
 }
+
 @media (min-width: 1025px) {
     .bg-banniere {
         background-image: url("img/agence-la-panthere4.jpg");
@@ -915,25 +912,11 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    /*
-    .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
-    */
     .bloc-group,
     .bloc-group .bloc {
         display: block;
         width: 100%;
     }
-    /*
-    .bloc-fill-screen .fill-bloc-top-edge,
-    .bloc-fill-screen .fill-bloc-bottom-edge {
-        padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
-    }
-    */
 }
 
 @media (max-width: 767px) {
@@ -1071,7 +1054,6 @@ h4 {
         width: 180px;
         height: 320px;
     }
-    /* TEST img responsive */
     .bg-banniere {
         background-image: url("img/agence-la-panthere.jpg");
         box-sizing: border-box;
