@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -831,15 +831,15 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 .citation {
@@ -848,7 +848,7 @@ h4 {
 
 @media (min-width: 1025px) {
     .bg-banniere {
-        background-image: url("img/agence-la-panthere4.jpg");
+        background-image: url("img/agence-la-panthere4.webp");
         box-sizing: border-box;
     }
 }
@@ -882,11 +882,11 @@ h4 {
         background-attachment: scroll;
     }
     .bg-banniere {
-        background-image: url("img/agence-la-panthere2.jpg");
+        background-image: url("img/agence-la-panthere2.webp");
         box-sizing: border-box;
     }
     .bg-presentation {
-        background-image: url("img/image-de-presentation3.jpg");
+        background-image: url("img/image-de-presentation3.webp");
     }
 }
 
@@ -895,7 +895,7 @@ h4 {
         background-attachment: scroll;
     }
     .bg-banniere {
-        background-image: url("img/agence-la-panthere3.jpg");
+        background-image: url("img/agence-la-panthere3.webp");
         box-sizing: border-box;
     }
 }
@@ -1055,11 +1055,11 @@ h4 {
         height: 320px;
     }
     .bg-banniere {
-        background-image: url("img/agence-la-panthere.jpg");
+        background-image: url("img/agence-la-panthere.webp");
         box-sizing: border-box;
     }
     .bg-presentation {
-        background-image: url("img/image-de-presentation2.jpg");
+        background-image: url("img/image-de-presentation2.webp");
     }
 }
 
@@ -1069,14 +1069,14 @@ h4 {
         padding-right: 0;
     }
     .bg-banniere {
-        background-image: url("img/agence-la-panthere\(mini-mobile\).jpg");
+        background-image: url("img/agence-la-panthere_mini-mobile_.webp");
         box-sizing: border-box;
     }
     .no-padding {
         padding: 0 !important;
     }
     .bg-presentation {
-        background-image: url("img/image-de-presentation1.jpg");
+        background-image: url("img/image-de-presentation1.webp");
     }
 }
 
